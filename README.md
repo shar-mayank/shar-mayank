@@ -21,10 +21,10 @@ I'm a pre-final year Computer Science student that loves to explore new tech and
 </div>
 
 ### 🗣️&nbsp; You can find me here
-<a href="https://www.linkedin.com/in/shar-mayank/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width=6% style="vertical-align: bottom;"></a>
-&nbsp; &nbsp; <a href="https://x.com/sharmayank16" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width=5.5% style="vertical-align: bottom;"></a>
-&nbsp; &nbsp; <a href="https://www.youtube.com/@shar_mayank" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width=6%;></a>
-&nbsp; &nbsp; <a href="https://open.spotify.com/user/31nnp65x2sxb2pctdl574jxc2lte?si=Jg4Pl1EMQXWmLB5B7H7rmg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width=6% style="vertical-align: bottom;"></a>
+<a href="https://www.linkedin.com/in/shar-mayank/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width=6% style="vertical-align: bottom;"></a>
+&nbsp; &nbsp; <a href="https://x.com/sharmayank16"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width=5.5% style="vertical-align: bottom;"></a>
+&nbsp; &nbsp; <a href="https://www.youtube.com/@shar_mayank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width=6%;></a>
+&nbsp; &nbsp; <a href="https://open.spotify.com/user/31nnp65x2sxb2pctdl574jxc2lte?si=Jg4Pl1EMQXWmLB5B7H7rmg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width=6% style="vertical-align: bottom;"></a>
 
 
 <!-- #TODO: add tech stack displayer
