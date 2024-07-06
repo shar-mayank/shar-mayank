@@ -18,7 +18,8 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 &nbsp; &nbsp; <a href="https://www.youtube.com/@shar_mayank"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/YouTube.svg" width=6%;></a>
 &nbsp; &nbsp; <a href="https://open.spotify.com/user/31nnp65x2sxb2pctdl574jxc2lte?si=Jg4Pl1EMQXWmLB5B7H7rmg"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/Spotify.svg" width=6% style="vertical-align: bottom;"></a>
 
-
+<!-- <details>
+ <summary>Tech I use? 👇🏼</summary> -->
 <h2>🛠️&nbsp;Tools & Languages</h2>
 
 - **Deep Learning Libraries/Frameworks** <br>
@@ -76,21 +77,21 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 <a href="https://brew.sh/" target="_blank"><img height="23px" src="https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white"></a>
 <a href="https://app.warp.dev/referral/66LJZZ" target="_blank"><img height="23px" src="https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white"></a>
 <a href="https://iterm2.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"></a>
-
+<!-- </details> -->
 
 
 <h2>Profile Summary</h2>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shar-mayank&theme=radical" alt="Radical Theme">
+<a href=""><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shar-mayank&theme=radical" alt="Radical Theme"></a>
 
 
 <h2>Activity Graph</h2>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shar-mayank&theme=react-dark" alt="React Dark Theme">
+<a href=""><img src="https://github-readme-activity-graph.vercel.app/graph?username=shar-mayank&theme=react-dark" alt="React Dark Theme"></a>
 
 
 <h2>Most Used Languages & Streak Stats </h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shar-mayank&theme=radical" alt="Radical Theme">
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shar-mayank&theme=radical" alt="Radical Theme"></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shar-mayank&theme=cobalt" alt="Cobalt Theme">
+<a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=shar-mayank&theme=cobalt" alt="Cobalt Theme"></a>
 
 
 <h2>🎶&nbsp; What I've been listening lately</h2>
