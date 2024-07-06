@@ -79,6 +79,20 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 
 
 
+<h2>Profile Summary</h2>
+<a href=""><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shar-mayank&theme=radical" alt="Radical Theme"></a>
+
+
+<h2>Activity Graph</h2>
+<a href=""><img src="https://github-readme-activity-graph.vercel.app/graph?username=shar-mayank&theme=react-dark" alt="React Dark Theme"></a>
+
+
+<h2>Most Used Languages & Streak Stats </h2>
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shar-mayank&theme=radical" alt="Radical Theme"></a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shar-mayank&theme=cobalt" alt="Cobalt Theme">
+
+
 <h2>🎶&nbsp; What I've been listening lately</h2>
 
 <div align=center>
@@ -90,4 +104,4 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 
 <!--
 #TODO: add this week I spent time on thing. ref: https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md
-#TODO: add github stats -->
+-->
