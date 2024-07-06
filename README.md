@@ -10,7 +10,6 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 - 📫 How to reach me: Email me at <a href="mailto:sharmayank1608@gmail.com" style="color: yellowgreen">sharmayank1608@gmail.com</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know lol. Ask <a href="https://github.com/gauransh415" style="color: white">@gauransh415</a>
-<br>
 
 
 <h2>👇🏼&nbsp; You can find me here</h2>
@@ -34,6 +33,11 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 <a href="https://cloud.google.com/?hl=en" target="_blank"><img height="23px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 <a href="https://www.icloud.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"></a>
 
+- Database <br>
+<a href="https://www.icloud.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="https://www.icloud.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+<a href="https://www.icloud.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+
 
 
 
@@ -46,6 +50,6 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 </div>
 
 
-<!-- #TODO: add tech stack displayer
+<!--
 #TODO: add this week I spent time on thing. ref: https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md
 #TODO: add github stats -->
