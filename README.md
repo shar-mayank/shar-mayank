@@ -16,11 +16,11 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 <a href="https://www.linkedin.com/in/shar-mayank/"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/LinkedIn.svg" width=6% style="vertical-align: bottom;"></a>
 &nbsp; &nbsp; <a href="https://x.com/sharmayank16"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/X_logo.svg" width=5.5% style="vertical-align: bottom;"></a>
 &nbsp; &nbsp; <a href="https://www.youtube.com/@shar_mayank"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/YouTube.svg" width=6%;></a>
-&nbsp; &nbsp; <a href="https://open.spotify.com/user/31nnp65x2sxb2pctdl574jxc2lte?si=Jg4Pl1EMQXWmLB5B7H7rmg"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/Spotify.svg" width=6% style="vertical-align: bottom;"></a>
+&nbsp; &nbsp; <a href="https://open.spotify.com/user/31nnp65x2sxb2pctdl574jxc2lte?si=Jg4Pl1EMQXWmLB5B7H7rmg"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/Spotify.svg" width=6% style="vertical-align: bottom;"></a><hr>
 
-<!-- <details>
- <summary>Tech I use? 👇🏼</summary> -->
-<h2>🛠️&nbsp;Tools & Languages</h2>
+<details>
+ <summary>Tech I use? 👇🏼</summary>
+<!-- <h2>🛠️&nbsp;Tools & Languages</h2> -->
 
 - **Deep Learning Libraries/Frameworks** <br>
 <a href="https://keras.io/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></a>
@@ -76,8 +76,9 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 - **Terminals** <br>
 <a href="https://brew.sh/" target="_blank"><img height="23px" src="https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white"></a>
 <a href="https://app.warp.dev/referral/66LJZZ" target="_blank"><img height="23px" src="https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white"></a>
-<a href="https://iterm2.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"></a><hr>
-<!-- </details> -->
+<a href="https://iterm2.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"></a><br><br>
+
+</details>
 
 <details>
 <summary>📊 GitHub Stats</summary>
@@ -92,7 +93,9 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 <h2>💻&nbsp; Most Used Languages & Streak Stats </h2>
 <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shar-mayank&theme=radical" alt="Radical Theme"></a>
 
-<a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=shar-mayank&theme=cobalt" alt="Cobalt Theme"></a>
+<!-- this was causing error -->
+<!-- <a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=shar-mayank&theme=cobalt" alt="Cobalt Theme"></a> -->
+
 </details>
 
 <h2>🎶&nbsp; What I've been listening lately</h2>
