@@ -1,5 +1,6 @@
-# Namaste, I'm Mayank Sharma <a href="https://sharmayank.co"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/namaste.gif" width=6% style="vertical-align: bottom;"></a>
+<!-- # Namaste, I'm Mayank Sharma <a href="https://sharmayank.co"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/namaste.gif" width=6% style="vertical-align: bottom;"></a> -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4986&pause=1000&color=66E133&center=true&vCenter=true&width=435&lines=Namaste%2C+I'm+Mayank+Sharma)](https://git.io/typing-svg)
 
 <h2>✨&nbsp;About Me</h2>
 
@@ -61,7 +62,7 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 <a href="https://cloud.google.com/?hl=en" target="_blank"><img height="23px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 <a href="https://www.icloud.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white"></a> <–– Yes, I use this too xD
 
-- **IDEs** <br> 
+- **IDEs** <br>
 <a href="https://code.visualstudio.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img height="23px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
 <a href="https://developer.android.com/studio" target="_blank"><img height="23px" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
@@ -89,7 +90,7 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 <h2>📈&nbsp; Activity Graph</h2>
 <a href=""><img src="https://github-readme-activity-graph.vercel.app/graph?username=shar-mayank&theme=react-dark" alt="React Dark Theme"></a>
 
-<!-- 
+<!--
 <h2>💻&nbsp; Most Used Languages & Streak Stats </h2>
 <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shar-mayank&theme=radical" alt="Radical Theme"></a> -->
 
