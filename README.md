@@ -99,14 +99,13 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 
 </details>
 
-<h2>🎶&nbsp; What I've been listening lately</h2>
+<!-- <h2>🎶&nbsp; What I've been listening lately</h2>
 
 <div align=center>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nnp65x2sxb2pctdl574jxc2lte&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nnp65x2sxb2pctdl574jxc2lte&redirect=true)
 
-</div>
-
+</div> -->
 
 <!--
 #TODO: add this week I spent time on thing. ref: https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/README.md
