@@ -90,12 +90,14 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 <h2>📈&nbsp; Activity Graph</h2>
 <a href=""><img src="https://github-readme-activity-graph.vercel.app/graph?username=shar-mayank&theme=react-dark" alt="React Dark Theme"></a>
 
-<!--
-<h2>💻&nbsp; Most Used Languages & Streak Stats </h2>
+
+<!-- <h2>💻&nbsp; Most Used Languages & Streak Stats </h2>
 <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shar-mayank&theme=radical" alt="Radical Theme"></a> -->
 
-<!-- this was causing error -->
-<!-- <a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=shar-mayank&theme=cobalt" alt="Cobalt Theme"></a> -->
+
+<h2>💻&nbsp; Streak Stats </h2>
+
+<a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=shar-mayank&theme=cobalt" alt="Cobalt Theme"></a>
 
 </details>
 
