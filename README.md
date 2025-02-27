@@ -6,8 +6,8 @@
 
 I'm a pre-final year Computer Science student and an aspiring Machine Learning Engineer that loves to explore new tech and build cool products. Avid music listener and I enjoy cooking too.
 
-- 🔭 I’m currently working on something really awesome with friends
-- 🌱 I’m currently learning kotlin
+- 🔭 I’m currently working on @recallrai
+- 🌱 I’m currently learning How to approach investors and working on my soft skills
 - 📫 How to reach me: Email me at <a href="mailto:sharmayank1608@gmail.com" style="color: yellowgreen">sharmayank1608@gmail.com</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I don't know lol. Ask <a href="https://github.com/gauransh415" style="color: white">@gauransh415</a>
