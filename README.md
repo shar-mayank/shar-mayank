@@ -1,30 +1,29 @@
 <!-- # Namaste, I'm Mayank Sharma <a href="https://sharmayank.co"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/namaste.gif" width=6% style="vertical-align: bottom;"></a> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4986&pause=1000&color=66E133&center=true&vCenter=true&width=435&lines=Namaste%2C+I'm+Mayank+Sharma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Halant&weight=600&size=25&duration=3000&pause=7000&color=F4B2AF&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BE+%E0%A4%A8%E0%A4%BE%E0%A4%AE+%E0%A4%AE%E0%A4%AF%E0%A4%82%E0%A4%95+%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE+%E0%A4%B9%E0%A5%88%E0%A5%A4;Hello%2C+My+name+is+Mayank+Sharma)](https://git.io/typing-svg)
 
 <h2>✨&nbsp;About Me</h2>
 
-I'm a pre-final year Computer Science student and an aspiring Machine Learning Engineer that loves to explore new tech and build cool products. Avid music listener and I enjoy cooking too.
+I'm a final year Computer Science student and an aspiring Machine Learning Engineer that loves to explore new tech and build cool products. Avid music listener and I enjoy cooking too.
 
-- 🔭 I’m currently working on personal projects and learning new stuff
-- 🌱 I’m currently learning DS&A 
-- 📫 How to reach me: Email me at <a href="mailto:sharmayank1608@gmail.com" style="color: yellowgreen">sharmayank1608@gmail.com</a>
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't know lol. Ask <a href="https://github.com/gauransh415" style="color: white">@gauransh415</a>
-
+- I’m currently working on personal projects
+- I’m currently learning different things and getting better each day 
+- **How to reach me**: Email me at [sharmayank1608@gmail.com](mailto:sharmayank1608@gmail.com)
+- **Pronouns**: He/Him
+- **Fun fact**: I'm good at badminton
 
 <h2>👇🏼&nbsp; You can find me here</h2>
 <a href="https://www.linkedin.com/in/shar-mayank/"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/LinkedIn.svg" width=6% style="vertical-align: bottom;"></a>
 &nbsp; &nbsp; <a href="https://x.com/sharmayank16"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/X_logo.svg" width=5.5% style="vertical-align: bottom;"></a>
-&nbsp; &nbsp; <a href="https://www.youtube.com/@shar_mayank"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/YouTube.svg" width=6%;></a>
+<!-- &nbsp; &nbsp; <a href="https://www.youtube.com/@shar_mayank"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/YouTube.svg" width=6%;></a> -->
 &nbsp; &nbsp; <a href="https://open.spotify.com/user/31nnp65x2sxb2pctdl574jxc2lte?si=Jg4Pl1EMQXWmLB5B7H7rmg"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/Spotify.svg" width=6% style="vertical-align: bottom;"></a><hr>
 
 <details>
- <summary>Tech I use? 👇🏼</summary>
+ <summary>Tech I use</summary>
 <!-- <h2>🛠️&nbsp;Tools & Languages</h2> -->
+<!-- references: https://github.com/inttter/md-badges -->
 
 - **Deep Learning Libraries/Frameworks** <br>
-<a href="https://keras.io/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></a>
 <a href="https://pytorch.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
 <a href="https://opencv.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></a>
@@ -32,16 +31,13 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 - **Machine Learning Libraries/Frameworks** <br>
 <a href="https://numpy.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></a>
-<a href="https://scikit-learn.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
 <a href="https://matplotlib.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Matplotlib-0052CC?style=for-the-badge&logo=matplotlib&logoColor=white"></a>
+<a href="https://scikit-learn.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
 <a href="https://scipy.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white"></a>
 
 - **Languages** <br>
 <a><img height="23px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a><img height="23px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a><img height="23px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a><img height="23px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a><img height="23px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a href="https://www.python.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 
 - **Web Frameworks** <br>
@@ -50,11 +46,14 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 
 - **Tools** <br>
 <a href="https://www.postman.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+<a href="https://notion.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=fff"></a>
 
 - **Databases** <br>
 <a href="https://www.mysql.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://www.sqlite.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img height="23px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="https://redis.io/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"></a>
 
 - **Cloud Platforms** <br>
 <a href="https://aws.amazon.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
@@ -66,7 +65,6 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 <a href="https://code.visualstudio.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img height="23px" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
 <a href="https://developer.android.com/studio" target="_blank"><img height="23px" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></a>
-<a href="https://www.jetbrains.com/clion/" target="_blank"><img height="23px" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"></a>
 <a href="https://colab.research.google.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
 <a href="https://developer.apple.com/xcode/" target="_blank"><img height="23px" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></a>
 
@@ -77,7 +75,6 @@ I'm a pre-final year Computer Science student and an aspiring Machine Learning E
 - **Terminals** <br>
 <a href="https://brew.sh/" target="_blank"><img height="23px" src="https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white"></a>
 <a href="https://app.warp.dev/referral/66LJZZ" target="_blank"><img height="23px" src="https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white"></a>
-<a href="https://iterm2.com/" target="_blank"><img height="23px" src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"></a><br><br>
 
 </details>
 
