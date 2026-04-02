@@ -4,7 +4,7 @@
 
 <h2>✨&nbsp;About Me</h2>
 
-I'm a final year Computer Science student and an aspiring Machine Learning Engineer that loves to explore new tech and build cool products. Avid music listener and I enjoy cooking too.
+I'm an Engineering student that's trying to get into Research while learning and working on backend and GenAI stuff. Amateur badminton player, pro cook (at home) and an avid music lover.
 
 - I’m currently working on personal projects
 - I’m currently learning different things and getting better each day 
