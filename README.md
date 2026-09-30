@@ -1,6 +1,6 @@
 <!-- # Namaste, I'm Mayank Sharma <a href="https://sharmayank.co"><img src="https://raw.githubusercontent.com/shar-mayank/shar-mayank/main/stuff/namaste.gif" width=6% style="vertical-align: bottom;"></a> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Halant&weight=600&size=25&duration=3000&pause=7000&color=F4B2AF&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BE+%E0%A4%A8%E0%A4%BE%E0%A4%AE+%E0%A4%AE%E0%A4%AF%E0%A4%82%E0%A4%95+%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE+%E0%A4%B9%E0%A5%88%E0%A5%A4;Hello%2C+My+name+is+Mayank+Sharma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rozha+One&size=21&pause=1000&color=39D353&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A4%BE+%E0%A4%A8%E0%A4%BE%E0%A4%AE+%E0%A4%AE%E0%A4%AF%E0%A4%82%E0%A4%95+%E0%A4%B6%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A4%BE+%E0%A4%B9%E0%A5%88%E0%A5%A4;Hello%2C+my+name+is+Mayank+Sharma.)](https://git.io/typing-svg)
 
 <h2>✨&nbsp;About Me</h2>
 
